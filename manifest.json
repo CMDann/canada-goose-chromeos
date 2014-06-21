@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
 
-  "name": "SysInfo",
-  "description": "Monitor your system, CPU, and display information!",
-  "version": "2.2",
+  "name": "Canada Goose",
+  "description": "A game about the majestic canada goose!",
+  "version": "1.2",
 
   "app": {
     "background": {
